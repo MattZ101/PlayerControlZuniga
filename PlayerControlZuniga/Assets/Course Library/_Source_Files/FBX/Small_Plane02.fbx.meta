@@ -1,33 +1,18 @@
 fileFormatVersion: 2
-guid: a7dca03bf1b6f9b46b6916fa5450f775
+guid: 5bdf4d3d5d3951d4c8a861101a144e82
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Wheel_fl
-    100004: Wheel_fr
-    100006: Wheel_rl
-    100008: Wheel_rr
-    400000: //RootNode
-    400002: Wheel_fl
-    400004: Wheel_fr
-    400006: Wheel_rl
-    400008: Wheel_rr
-    2300000: //RootNode
-    2300002: Wheel_fl
-    2300004: Wheel_fr
-    2300006: Wheel_rl
-    2300008: Wheel_rr
-    3300000: //RootNode
-    3300002: Wheel_fl
-    3300004: Wheel_fr
-    3300006: Wheel_rl
-    3300008: Wheel_rr
-    4300000: ST_Veh_Ute_Red_Z
-    4300002: Wheel_fr
-    4300004: Wheel_fl
-    4300006: Wheel_rl
-    4300008: Wheel_rr
+    100000: Propellor
+    100002: //RootNode
+    400000: Propellor
+    400002: //RootNode
+    2300000: Propellor
+    2300002: //RootNode
+    3300000: Propellor
+    3300002: //RootNode
+    4300000: Small_Plane02
+    4300002: Propellor
     9500000: //RootNode
     2186277476908879412: ImportLogs
   externalObjects: {}
@@ -58,15 +43,15 @@ ModelImporter:
     extraExposedTransformPaths: []
     extraUserProperties: []
     clipAnimations: []
-    isReadable: 1
+    isReadable: 0
   meshes:
     lODScreenPercentages: []
-    globalScale: 100
+    globalScale: 1
     meshCompression: 0
     addColliders: 0
     useSRGBMaterialColor: 1
     importVisibility: 0
-    importBlendShapes: 1
+    importBlendShapes: 0
     importCameras: 0
     importLights: 0
     swapUVChannels: 0
@@ -81,18 +66,18 @@ ModelImporter:
     secondaryUVAreaDistortion: 15.000001
     secondaryUVHardAngle: 88
     secondaryUVPackMargin: 4
-    useFileScale: 1
+    useFileScale: 0
     previousCalculatedGlobalScale: 1
     hasPreviousCalculatedGlobalScale: 0
   tangentSpace:
-    normalSmoothAngle: 60
+    normalSmoothAngle: 10
     normalImportMode: 0
     tangentImportMode: 0
     normalCalculationMode: 0
     legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
     blendShapeNormalImportMode: 1
     normalSmoothingSource: 0
-  importAnimation: 1
+  importAnimation: 0
   copyAvatar: 0
   humanDescription:
     serializedVersion: 2
